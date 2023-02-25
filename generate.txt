@@ -1,0 +1,7 @@
+# class
+src\main\java\com\example\template\domain\partner\Partner.java
+
+# replace
+partner	test
+Partner	Test
+고객사	테스트
