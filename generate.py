@@ -46,4 +46,3 @@ for src_path in class_list:
 			filedata = filedata.replace(r[0], r[1])
 	with open(dest_path, 'w') as file:
 		file.write(filedata)
-	# print(os.path.dirname(dest_path))
